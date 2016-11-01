@@ -1,4 +1,5 @@
-# rbx-caffe-dlt
+# Running "Deep Visualization Toolbox" on Docker
+project: rbx-caffe-dlt
 
 Objective: run https://github.com/yosinski/deep-visualization-toolbox in docker container
 
