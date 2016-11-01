@@ -1,5 +1,7 @@
 # rbx-caffe-dlt
 
+Objective: run https://github.com/yosinski/deep-visualization-toolbox in docker container
+
 1. build container
 	
 	get Dockerfile
