@@ -14,7 +14,7 @@ Objective: run https://github.com/yosinski/deep-visualization-toolbox in docker 
 
 3. run container
 	
-	docker run --name='dlt' -it --rm -v /localfilepath/caffenet-yos:/root/deep-visualization-toolbox/models/caffenet-yos heavy02011/rbx-caffe-dlt:v1
+	docker run --name='dlt' -it --rm -v /localfilepath/caffenet-yos:/root/deep-visualization-toolbox/models/caffenet-yos heavy02011/rbx-caffe-dlt:v1 /root/deep-visualization-toolbox/run_toolbox.py
 
 currently not running!!
 see issue #1
