@@ -2,7 +2,7 @@
 FROM kaixhin/caffe
 MAINTAINER heavy02011
 
-### Initial Srep ####
+### get configuration files ####
 RUN cd /root && git clone https://github.com/Heavy02011/rbx-caffe-dlt.git
 
 
